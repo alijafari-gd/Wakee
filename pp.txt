@@ -1,0 +1,23 @@
+deLate Privacy Policy  
+Last Updated Fri, Apr 25 - 2025
+
+ 1 Data Collection  
+We collect  
+ Anonymous analytics via AppMetrica device model crash reports session length  
+ AdMob data Google's advertising SDK may collect device identifiers eg Advertising ID for personalized ads  
+
+ 2 Purpose  
+ Improve app stability and performance  
+ Display relevant advertisements  
+
+ 3 Data Sharing  
+ AppMetrica Anonymous usage data nonidentifiable  
+ AdMob Google may use data for ad personalization  
+
+ 4 User Controls  
+ Opt out of personalized ads Reset Advertising ID in device settings or via [Google's ad settings]httpsadssettingsgooglecom  
+
+
+ 6 Contact  
+For questions alijafarigd@gmailcom  
+
