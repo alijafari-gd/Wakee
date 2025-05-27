@@ -3,20 +3,22 @@ Last Updated Fri, Apr 25 - 2025
 
  1 Data Collection  
 We collect  
- Anonymous analytics via AppMetrica device model crash reports session length  
+ Anonymous analytics via AppMetrica device model, crash reports , session length  ...
  AdMob data Google's advertising SDK may collect device identifiers eg Advertising ID for personalized ads  
 
  2 Purpose  
  Improve app stability and performance  
  Display relevant advertisements  
+ Enabling some optional features for the app
 
  3 Data Sharing  
  AppMetrica Anonymous usage data nonidentifiable  
  AdMob Google may use data for ad personalization  
-
+ Location(Approximate or Percise by user choise) is shared with weather provider api (openweathermap) indirectly ( not revealing your IP address) this is optional and can be thrned off within the app
  4 User Controls  
  Opt out of personalized ads Reset Advertising ID in device settings or via [Google's ad settings]httpsadssettingsgooglecom  
 
+Open Weathe Map API privacy policy : "We do not collect or store any parameters from your API requests, such as locations/ZIP-codes/city names, units measurements, data format, etc. When you make API requests, we also do not collect or store your IP address, user agent and other API request parameters."
 
  6 Contact  
 For questions alijafarigd@gmailcom  
